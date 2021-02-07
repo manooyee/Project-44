@@ -1,0 +1,42 @@
+Game Design Document
+Fill up the Following document 
+
+
+1.	Write the title of your project.
+Falling for money
+
+
+2.	What is the goal of the game? 
+The goal of my game is collect the most money you can while still being able land safely on the ground.
+
+
+3.	Write a brief story of your game?
+A man/women drops their wallet off the top of a building. They are money crazy so the jump down the building to the get their money.
+
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones which respond to the user based on the input from the user
+●	Cars, monkeys, dinos, wizards etc, are the playing characters in the game.  
+Number	Character Name	What can this character do? 
+1	Business man(wearing suit)	They are able to collect/grab money, and also be able to land on window sills.
+	
+
+5.	Which are the Non Playing Characters of this game?
+●	Non Playing characters are the ones which don't have an action or a behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc are non playing characters in the game.   
+Number	Character Name	What can this character do? 
+1	Money	This character will be falling down the sides of the building, to be collected by the playing character.
+2	Windows/window sills	This character will assist the playing character in landing safely on the ground
+	
+
+Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper, 
+●	Add images of scenes of the game to show each of the playing and non-playing characters at least once.  
+
+Look at file "game idea Drawing"
+
+How do you plan to make your game engaging? 
+Maybe with scoring, we will make it a challenge to try to increase your previous score. Or maybe when the player lands to hard/fast on the window sill it breaks very quickly.
+
+
+
